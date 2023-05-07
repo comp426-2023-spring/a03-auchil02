@@ -14,7 +14,7 @@
     "rpsls"
   ],
   "author": "@auchil02",
-  "license": "MIT"
+  "license": "MIT",
   "bin": {
 	  "node-rps": "./bin/rps-cli.js",
 	  "node-rpsls": "./bin/rpsls-cli.js"
