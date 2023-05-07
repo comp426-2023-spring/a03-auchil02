@@ -1,0 +1,18 @@
+{
+  "name": "node-rpsls",
+  "version": "1.0.0",
+  "description": "This is a module-based command line Node.js package.",
+  "main": "./lib/rpsls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "module",
+    "cli",
+    "command_line",
+    "node.js",
+    "rpsls"
+  ],
+  "author": "@auchil02",
+  "license": "MIT"
+}
