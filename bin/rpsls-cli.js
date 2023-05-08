@@ -45,5 +45,7 @@ const playerShot = argv._[0];
 try {
 	console.log(JSON.stringify(rpsls(playerShot)))
 } catch (error) {
-	process.exit(1)
+	console.log(helpMenu);
+	console.log(rules);
+	process.exit(1);
 }
