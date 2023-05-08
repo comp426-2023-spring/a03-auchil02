@@ -36,7 +36,7 @@ if (argv.r || argv.rules) {
 const playerShot = argv._[0];
 
 try {
-	console.log(JSON.stringify(rps(shoot)))
+	console.log(JSON.stringify(rps(playerShot)))
 } catch (error) {
 	process.exit(1)
 }
